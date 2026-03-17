@@ -7,7 +7,7 @@
 
 ![Robot](media/IMG_20190718_163201_2.jpg)
 
-This project presents the mechanical and electronic design of a **low-cost miniature swarm robot platform** developed during my master's internship (from **May 2019 to July 2019** ) at **Institute for Intelligent Systems and Robotics (ISIR), Sorbonne University**.
+This project presents the mechanical and electronic design of a **low-cost miniature swarm robot platform** developed during my master's internship (May 2019 – July 2019) at the **Institute for Intelligent Systems and Robotics (ISIR), Sorbonne University**.
 
 ---
 
