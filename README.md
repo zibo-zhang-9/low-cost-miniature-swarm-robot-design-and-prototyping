@@ -17,7 +17,7 @@ Miniature robots are attractive for swarm robotics because they are inexpensive,
 
 This research project aimed to explore the design of a **small and low-cost swarm robot platform** inspired by systems such as **Kilobot**, **Hexbug**, and other vibration-driven miniature robots.
 
-This research project involved **mechanical design**, **electronics integration**, **sensor interfacing**, and **experimental prototyping**.
+It involved **mechanical design**, **electronics integration**, **sensor interfacing**, and **experimental prototyping**.
 
 ---
 
