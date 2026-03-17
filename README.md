@@ -59,7 +59,7 @@ The target prototypes were intended to satisfy several constraints:
 
 Several vibration-driven prototypes were explored and compared.
 
-These prototypes were 3D-designed and printed and use Linear Resonant Actautor (LRA) or Eccentric Rotating Mass (ERM) motors:
+These prototypes were 3D-designed and printed and use **Linear Resonant Actautor (LRA)** or **Eccentric Rotating Mass (ERM)** motors:
 
 ![Vibration Prototypes](media/vibration_models.png)
 
