@@ -136,13 +136,13 @@ Experimental tests were performed to validate the proposed **Closed-Loop heading
 
 - the robot trajectory tended to curve
 
-[Watch the demo video](video/Vidéo6_kilobot_brosse_a_dents_asservissement_1.mp4)
+[Watch the demo video](media/Vidéo6_kilobot_brosse_a_dents_asservissement_1.mp4)
 
 **With IMU-based correction**
 
 - the robot was able to approximately maintain a straight direction from its initial heading
 
-[Watch the demo video](video/Vidéo7_kilobot_brosse_a_dents_asservissement_2.mp4)
+[Watch the demo video](media/Vidéo7_kilobot_brosse_a_dents_asservissement_2.mp4)
 
 
 These results show that both **morphology design** and **embedded sensing** play an important role in the behavior of miniature robots.
