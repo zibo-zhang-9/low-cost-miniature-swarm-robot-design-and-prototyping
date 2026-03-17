@@ -61,17 +61,16 @@ Two kinds of prototype was studied: **Vibration-Driven Prototypes** and **Small 
 
 ## Vibration-Driven Prototypes
 
-Several vibration-driven robot prototypes were explored and compared, shown in the following Figure:
+Several vibration-driven prototypes were explored and compared.
+
+These prototypes uses ERM or LRA motors and are shown in the following Figure:
 
 ![Vibration Prototypes](media/vibration_models.jpg)
-
-These tested prototypes included:
 
 - brush-based locomotion
 - small-fin locomotion
 - long-fin locomotion
 - modified Kilobot morphologies
-- vibration actuation using ERM and LRA motors
 
 ---
 
