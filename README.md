@@ -1,4 +1,4 @@
-# Low-Cost Miniature Robot Design and Prototyping
+# Low-Cost Miniature Swarm Robot Design and Prototyping
 
 ![Research](https://img.shields.io/badge/Research-Robotics-red)
 ![Field](https://img.shields.io/badge/Field-Miniature_Robotics-blue)
@@ -7,7 +7,7 @@
 
 ![Robot](media/IMG_20190718_163201_2.jpg)
 
-This project presents the mechanical and electronic design of a **low-cost miniature robot platform** developed during my master's internship (from **May 2019 to July 2019** ) at **Institute for Intelligent Systems and Robotics (ISIR), Sorbonne University**.
+This project presents the mechanical and electronic design of a **low-cost miniature swarm robot platform** developed during my master's internship (from **May 2019 to July 2019** ) at **Institute for Intelligent Systems and Robotics (ISIR), Sorbonne University**.
 
 The work explored several key directions for miniature and swarm robotics, including:
 
