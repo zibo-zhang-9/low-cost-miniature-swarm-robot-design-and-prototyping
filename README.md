@@ -15,7 +15,7 @@ This project presents the mechanical and electronic design of a **low-cost minia
 
 Miniature robots are attractive for swarm robotics because they are inexpensive, lightweight, and scalable to large populations.
 
-This research project aimed to explore the design of a **small and low-cost swarm robot platform** inspired by systems such as **Kilobot**, **Hexbug**, and other vibration-driven miniature robots.
+This project aims to explore the design of a **small and low-cost swarm robot platform** inspired by systems such as **Kilobot**, **Hexbug**, and other vibration-driven miniature robots.
 
 It involved **mechanical design**, **electronics integration**, **sensor interfacing**, and **experimental prototyping**.
 
@@ -59,7 +59,7 @@ The target prototypes were intended to satisfy several constraints:
 
 Several vibration-driven prototypes were explored and compared.
 
-These prototypes were 3D-designed and printed and use **Linear Resonant Actautor (LRA)** or **Eccentric Rotating Mass (ERM)** motors:
+These prototypes were 3D-designed and printed and use **Linear Resonant Actuator (LRA)** or **Eccentric Rotating Mass (ERM)** motors:
 
 ![Vibration Prototypes](media/vibration_models.png)
 
@@ -111,7 +111,7 @@ The goal was to evaluate their suitability for contactless charging of small rob
 
 ---
 
-# Part II IMU Integration and Closed-Loop Control
+# Part II IMU integration and closed-loop control
 
 A **MPU6050 IMU** (3-axis accelerometer + 3-axis gyroscope) was integrated into the morphologically modified Kilobot and interfaced via **I2C communication**.
 
