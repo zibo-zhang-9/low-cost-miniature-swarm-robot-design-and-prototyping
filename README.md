@@ -138,9 +138,6 @@ Experimental tests were performed to validate the proposed **Closed-Loop heading
 
 ![demo](media/Vidéo6_kilobot_brosse_a_dents_asservissement_1.gif)
 
-[Watch the demo video](media/Vidéo6_kilobot_brosse_a_dents_asservissement_1.gif)
-
-
 **With IMU-based correction**
 
 - the robot was able to approximately maintain a straight direction from its initial heading
