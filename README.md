@@ -55,7 +55,7 @@ The target robotics was intended to satisfy several constraints:
 - possible wireless charging
 - compatibility with low-cost embedded electronics
 
-Two types of prototype was developped: **Vibration-Driven Prototypes** and **Small Wheeled Robot Prototype**
+Two kinds of prototype was proposed: **Vibration-Driven Prototypes** and **Small Wheeled Robot Prototype**
 
 ## Vibration-Driven Prototypes
 
