@@ -142,7 +142,7 @@ Experimental tests were performed to validate the proposed **Closed-Loop heading
 
 - the robot was able to approximately maintain a straight direction from its initial heading
 
-![demo](media/Vidéo7_kilobot_brosse_a_dents_asservissement_2.gif)
+![demo](media/Vidéo7_kilobot_brosse_a_dents_asservissement_2(1).gif)
 
 For the full experimental demonstration video, click the following link: https://youtu.be/xx
 
