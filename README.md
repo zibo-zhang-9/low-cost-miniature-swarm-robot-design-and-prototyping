@@ -21,7 +21,7 @@ This research project involved **mechanical design**, **electronics integration*
 
 ---
 
-# Research Project Highlights
+# Highlights
 
 • Feasibility study of **wireless charging coils** for miniature robots  
 • Design and prototyping of **multiple vibration-driven robot morphologies**  
@@ -32,7 +32,7 @@ This research project involved **mechanical design**, **electronics integration*
 
 ---
 
-# Research Objectives
+# Objectives
 
 The project focused on the following key objectives:
 
