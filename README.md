@@ -91,7 +91,7 @@ A standard Kilobot platform was used as a reference system and modified in sever
 
 Different support morphologies were tested:
 
-![Kilobot Morphologies](media/kilobot_morphologies.jpg)
+![Kilobot Morphologies](media/IMG_20190726_204139.jpg)
 
 where from left to right:
 - rubber-foot Kilobot
