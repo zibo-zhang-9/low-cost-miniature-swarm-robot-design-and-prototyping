@@ -128,7 +128,7 @@ The PID-based control strategy enabled:
 
 ---
 
-# Experimental validation of the Closed-Loop heading Control
+# Part III Experimental validation of the Closed-Loop heading Control
 
 Experimental tests were performed to validate the proposed **Closed-Loop heading Control**
 
@@ -146,8 +146,6 @@ These results show that both **morphology design** and **embedded sensing** play
 
 # Technologies Used
 
-The project involved the study and integration of several hardware and electronics components.
-
 ## Sensors
 
 - **MPU6050** IMU (3-axis accelerometer + 3-axis gyroscope)
@@ -163,41 +161,15 @@ The project involved the study and integration of several hardware and electroni
 
 ## Embedded and Communication
 
-- Arduino-based prototyping
+- Arduino-based prototyping (ATMega328p, A4988 motor drivers, Arduino IDE)
 - AVR / C programming
 - I2C interfacing
 - Kilobot PCB modifications
-
-## Programming
-
-- C
-- AVR programming
-- Arduino IDE
-
-## Embedded Systems
-
-- ATMega328p
-- A4988 motor drivers
-- I2C communication
-
-## Sensors
-
-- MPU6050
-- Thermal MEMS accelerometer
 
 ## Mechanical Design and Fabrication
 
 - SolidWorks
 - 3D printing
-- rapid prototyping
-- wheel and chassis design
-
-## Actuation
-
-- ERM vibration motors
-- LRA actuators
-- stepper motors
-- miniature DC motors
 
 ---
 
@@ -205,24 +177,15 @@ The project involved the study and integration of several hardware and electroni
 
 Potential applications include:
 
-- swarm robotics research
+- swarm robotics research & robotic morphology studies
 - low-cost collective robotic systems
 - miniature autonomous mobile robots
-- embedded locomotion experiments
-- robotic morphology studies
-- educational and research robot platforms
 
 ---
 
 # Project Context
 
-This internship was carried out at:
-
-**Institute for Intelligent Systems and Robotics (ISIR)**  
-Sorbonne University  
-Paris, France
-
-within the framework of the project:
+This internship was carried out within the framework of the project:
 
 **MSR – Morphological and Swarm Robotics**
 
@@ -233,10 +196,6 @@ within the framework of the project:
 [1] Z. Zhang,  
 **Conception mécanique et électronique d’un robot de petite taille à bas prix**,  
 Internship Report, Sorbonne University, 2019.
-
-[2] Z. Zhang,  
-Internship presentation slides and weekly reports,  
-ISIR / Sorbonne University, 2019.
 
 ---
 
