@@ -144,6 +144,7 @@ Experimental tests were performed to validate the proposed **Closed-Loop heading
 
 ![demo](media/Vidéo7_kilobot_brosse_a_dents_asservissement_2.gif)
 
+For the full experimental demonstration video, click the following link: https://youtu.be/xx
 
 These results show that both **morphology design** and **embedded sensing** play an important role in the behavior of miniature robots.
 
