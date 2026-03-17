@@ -77,7 +77,7 @@ or some prototypes were made by modifying Kilobot morphologies:
 
 In parallel, a small wheeled prototype was also designed and assembled.
 
-Main features:
+Main features includ:
 
 - two miniature stepper motors
 - 3D-printed circular chassis
