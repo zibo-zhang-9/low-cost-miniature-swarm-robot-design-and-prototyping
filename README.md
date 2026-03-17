@@ -17,6 +17,8 @@ Miniature robots are attractive for swarm robotics because they are inexpensive,
 
 This internship aimed to explore the design of a **small and low-cost swarm robot platform** inspired by systems such as **Kilobot**, **Hexbug**, and other vibration-driven miniature robots.
 
+The project combined **mechanical design**, **electronics integration**, **sensor interfacing**, and **experimental prototyping**.
+
 ---
 
 # Project Highlights
@@ -43,8 +45,6 @@ The project focused on the following key objectives:
 ---
 
 # Prototype Families
-
-The project combined **mechanical design**, **electronics integration**, **sensor interfacing**, and **experimental prototyping**.
 
 The target robotics was intended to satisfy several constraints:
 
