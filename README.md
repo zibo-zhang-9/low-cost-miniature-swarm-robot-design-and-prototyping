@@ -21,7 +21,7 @@ It involved **mechanical design**, **electronics integration**, **sensor interfa
 
 ---
 
-# Highlights
+# Highlights & Key Contributions
 
 • Feasibility study of **wireless charging coils** for miniature robots  
 • Design and prototyping of **multiple vibration-driven robot morphologies**  
@@ -41,7 +41,7 @@ The project focused on the following key objectives:
 - integrating **inertial sensing units (IMU)** for motion control + orientation control
 - designing and prototyping new miniature robot concepts
 - improving motion control through **embedded sensing and feedback**
-
+  
 ---
 
 # Part I Prototype Families
@@ -59,7 +59,7 @@ The target prototypes were intended to satisfy several constraints:
 
 Several vibration-driven prototypes were explored and compared.
 
-These prototypes were 3D-designed and printed and uses ERM or LRA motors (shown in the following Figure).
+These prototypes were 3D-designed and printed and use ERM or LRA motors:
 
 ![Vibration Prototypes](media/vibration_models.png)
 
@@ -69,7 +69,7 @@ These prototypes were 3D-designed and printed and uses ERM or LRA motors (shown 
 
 In parallel, a small wheeled prototype was also designed and assembled.
 
-Main features includ:
+Main features include:
 
 - two miniature stepper motors
 - 3D-printed circular chassis
@@ -83,7 +83,7 @@ This prototype was used to explore a more controllable locomotion alternative to
 
 ## Kilobot Morphology Modifications
 
-A standard Kilobot platform was used as a reference system and modified in several ways. Different morphologies variants were tested:
+A standard Kilobot platform was used as a reference system and modified in several ways. Different morphological variants were tested:
 
 ![Kilobot Morphologies](media/IMG_20190726_204139_2.jpg)
 
@@ -113,11 +113,11 @@ The goal was to evaluate their suitability for contactless charging of small rob
 
 # Part II IMU Integration and Closed-Loop Control
 
-A **MPU6050** IMU (3-axis accelerometer + 3-axis gyroscope) was integrated to the modified Kilobot morphologies and was interfaced through **I2C** to communicate with the modified Kilobot morphologies.
+A **MPU6050 IMU** (3-axis accelerometer + 3-axis gyroscope) was integrated into the morphologically modified Kilobot and interfaced via **I2C communication**.
 
 ![Kilobot Morphologies 2](media/IMG_20190726_204156.jpg)
 
-An **IMU-based feedback loop** for heading control was implemented so that the robot could maintain a straighter trajectory from its initial heading.
+An **IMU-based feedback loop** for heading control was implemented, enabling the robot to maintain a straighter trajectory from its initial heading.
 
 The PID-based control strategy enabled:
 
@@ -128,9 +128,9 @@ The PID-based control strategy enabled:
 
 ---
 
-# Part III Experimental validation of the Closed-Loop heading Control
+# Part III Experimental validation of the Closed-loop heading Control
 
-Experimental tests were performed to validate the proposed **Closed-Loop heading Control**.
+Experimental tests were performed to validate the proposed **Closed-loop heading Control**.
 
 **Without feedback control**
 
@@ -144,9 +144,7 @@ Experimental tests were performed to validate the proposed **Closed-Loop heading
 
 ![demo](media/Vidéo7_kilobot_brosse_a_dents_asservissement_2(1).gif)
 
-For the full experimental demonstration video, click the following link: https://youtu.be/xx
-
-These results show that both **morphology design** and **embedded sensing** play an important role in the behavior of miniature robots.
+These results demonstrate that both **robot morphology design** and **embedded sensing with feedback control** play a critical role in the behavior and performance of miniature robots.
 
 ---
 
@@ -183,7 +181,7 @@ These results show that both **morphology design** and **embedded sensing** play
 
 Potential applications include:
 
-- swarm robotics research & robotic morphology studies
+- swarm robotics research and robotic morphology studies
 - low-cost collective robotic systems
 - miniature autonomous mobile robots
 
