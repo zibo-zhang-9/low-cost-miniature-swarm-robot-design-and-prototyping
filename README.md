@@ -19,7 +19,7 @@ This research aimed to explore the design of a **small and low-cost swarm robot 
 
 ---
 
-# Project Highlights
+# Highlights
 
 • Feasibility study of **wireless charging coils** for miniature robots  
 • Design and prototyping of **multiple vibration-driven robot morphologies**  
