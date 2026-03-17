@@ -11,6 +11,13 @@ This project presents the mechanical and electronic design of a **low-cost minia
 
 ---
 
+# Overview
+
+Miniature robots are attractive for swarm robotics because they are inexpensive, lightweight, and scalable to large populations.
+
+This internship aimed to explore the design of a **small and low-cost swarm robot platform** inspired by systems such as **Kilobot**, **Hexbug**, and other vibration-driven miniature robots.
+
+
 # Project Highlights
 
 • Feasibility study of **wireless charging coils** for miniature robots  
@@ -22,11 +29,15 @@ This project presents the mechanical and electronic design of a **low-cost minia
 
 ---
 
-# Overview
+# Research Objectives
 
-Miniature robots are attractive for swarm robotics because they are inexpensive, lightweight, and scalable to large populations.
+The internship focused on five main objectives:
 
-This internship aimed to explore the design of a **small and low-cost swarm robot platform** inspired by systems such as **Kilobot**, **Hexbug**, and other vibration-driven miniature robots.
+- understanding vibration-based locomotion using Hexbug and Kilobot
+- learning how to operate and modify Kilobots
+- integrating inertial sensing units
+- proposing new miniature robot prototypes
+- improving motion control through embedded sensing and feedback
 
 The target platform was intended to satisfy several constraints:
 
@@ -49,16 +60,6 @@ The work explored several key directions for miniature and swarm robotics, inclu
 - **wireless charging feasibility study**
 
 ---
-
-# Research Objectives
-
-The internship focused on five main objectives:
-
-- understanding vibration-based locomotion using Hexbug and Kilobot
-- learning how to operate and modify Kilobots
-- integrating inertial sensing units
-- proposing new miniature robot prototypes
-- improving motion control through embedded sensing and feedback
 
 ---
 
