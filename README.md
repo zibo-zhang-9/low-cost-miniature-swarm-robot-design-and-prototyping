@@ -44,7 +44,7 @@ The project focused on the following key objectives:
 
 ---
 
-# Prototype Families
+# Part I Prototype Families
 
 The target prototypes were intended to satisfy several constraints:
 
@@ -83,13 +83,9 @@ This prototype was used to explore a more controllable locomotion alternative to
 
 ---
 
-# Kilobot Modifications
+## Kilobot Modifications
 
-A standard Kilobot platform was used as a reference system and modified in several ways.
-
-## Morphology Variants
-
-Different support morphologies were tested:
+A standard Kilobot platform was used as a reference system and modified in several ways. Different morphologies variants were tested:
 
 ![Kilobot Morphologies](media/IMG_20190726_204139_2.jpg)
 
