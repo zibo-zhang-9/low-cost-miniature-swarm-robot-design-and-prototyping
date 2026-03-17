@@ -55,8 +55,6 @@ The target prototypes were intended to satisfy several constraints:
 - possible wireless charging
 - compatibility with low-cost embedded electronics
 
-These prototypes were designed to investigate the trade-off between: speed, directional stability, turning capability, and simplicity of fabrication
-
 Two kinds of prototype was studied: **Vibration-Driven Prototypes** and **Small Wheeled Robot Prototype**
 
 ## Vibration-Driven Prototypes
@@ -82,6 +80,24 @@ Main features includ:
 - A4988 motor drivers
 
 This prototype was used to explore a more controllable locomotion alternative to purely vibration-driven motion.
+
+---
+
+# Kilobot Modifications
+
+A standard Kilobot platform was used as a reference system and modified in several ways.
+
+## Morphology Variants
+
+Different support morphologies were tested:
+
+![Kilobot Morphologies](media/kilobot_morphologies.jpg)
+
+where from left to right:
+- rubber-foot Kilobot
+- two-toothbrush Kilobot
+- three-toothbrush Kilobot
+- original Kilobot as baseline
 
 ---
 
@@ -124,30 +140,6 @@ Several PCB coil geometries were designed and compared:
 The goal was to evaluate their suitability for contactless charging of small robotic platforms.
 
 ![Wireless Charging Coils](media/wireless_charging_coils.jpg)
-
----
-
-# Kilobot Modifications
-
-A standard Kilobot platform was used as a reference system and modified in several ways.
-
-## Morphology Variants
-
-Different support morphologies were tested:
-
-- rubber-foot Kilobot
-- two-toothbrush Kilobot
-- three-toothbrush Kilobot
-- original Kilobot as baseline
-
-These modifications were used to evaluate the effect of morphology on:
-
-- speed
-- straightness of motion
-- noise
-- directional bias
-
-![Kilobot Morphologies](media/kilobot_morphologies.jpg)
 
 ---
 
