@@ -32,15 +32,21 @@ This internship aimed to explore the design of a **small and low-cost swarm robo
 
 # Research Objectives
 
-The internship focused on five main objectives:
+The project focused on the following key objectives:
 
-- understanding vibration-based locomotion using Hexbug and Kilobot
-- learning how to operate and modify Kilobots
-- integrating inertial sensing units
-- proposing new miniature robot prototypes
-- improving motion control through embedded sensing and feedback
+- understanding vibration-based locomotion inspired by **Hexbug** and **Kilobot**
+- operating and modifying existing Kilobot platforms
+- integrating **inertial sensing units (IMU)** for motion control
+- designing and prototyping new miniature robot concepts
+- improving motion control through **embedded sensing and feedback**
 
-The target platform was intended to satisfy several constraints:
+---
+
+# Prototype Families
+
+The project combined **mechanical design**, **electronics integration**, **sensor interfacing**, and **experimental prototyping**.
+
+The target robotics was intended to satisfy several constraints:
 
 - miniature size (around 3 cm)
 - at least two degrees of freedom
@@ -49,20 +55,7 @@ The target platform was intended to satisfy several constraints:
 - possible wireless charging
 - compatibility with low-cost embedded electronics
 
-The project combined **mechanical design**, **electronics integration**, **sensor interfacing**, and **experimental prototyping**.
-
-The work explored several key directions for miniature and swarm robotics, including:
-
-- **vibration-driven locomotion**
-- **small wheeled locomotion**
-- **IMU-based orientation sensing**
-- **closed-loop direction control**
-- **Kilobot morphology modification**
-- **wireless charging feasibility study**
-
----
-
-# Prototype Families
+Two types of prototype was developped: **Vibration-Driven Prototypes** and **Small Wheeled Robot Prototype**
 
 ## Vibration-Driven Prototypes
 
