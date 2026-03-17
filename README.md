@@ -46,7 +46,7 @@ The project focused on the following key objectives:
 
 # Prototype Families
 
-The target robotics was intended to satisfy several constraints:
+The target prototypes were intended to satisfy several constraints:
 
 - miniature size (around 3 cm)
 - at least two degrees of freedom
@@ -55,28 +55,23 @@ The target robotics was intended to satisfy several constraints:
 - possible wireless charging
 - compatibility with low-cost embedded electronics
 
+These prototypes were designed to investigate the trade-off between: speed, directional stability, turning capability, and simplicity of fabrication
+
 Two kinds of prototype was studied: **Vibration-Driven Prototypes** and **Small Wheeled Robot Prototype**
 
 ## Vibration-Driven Prototypes
 
-Several vibration-driven robot morphologies were explored and compared.
+Several vibration-driven robot prototypes were explored and compared, shown in the following Figure:
 
-Tested concepts included:
+![Vibration Prototypes](media/vibration_models.jpg)
+
+These tested prototypes included:
 
 - brush-based locomotion
 - small-fin locomotion
 - long-fin locomotion
 - modified Kilobot morphologies
 - vibration actuation using ERM and LRA motors
-
-These prototypes were designed to investigate the trade-off between:
-
-- speed
-- directional stability
-- turning capability
-- simplicity of fabrication
-
-![Vibration Prototypes](media/vibration_models.jpg)
 
 ---
 
