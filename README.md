@@ -55,8 +55,6 @@ The target prototypes were intended to satisfy several constraints:
 - possible wireless charging
 - compatibility with low-cost embedded electronics
 
-Two kinds of prototype was studied: **Vibration-Driven Prototypes** and **Small Wheeled Robot Prototype**
-
 ## Vibration-Driven Prototypes
 
 Several vibration-driven prototypes were explored and compared.
