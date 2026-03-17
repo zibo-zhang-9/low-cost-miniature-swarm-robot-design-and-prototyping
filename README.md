@@ -128,19 +128,7 @@ The PID-based control strategy enabled:
 
 ---
 
-# Experimental Findings
-
-The experiments highlighted several useful observations.
-
-## Vibration-Driven Motion
-
-Among the tested vibration-based morphologies:
-
-- the **three-toothbrush** version was the fastest, but followed a more circular trajectory
-- the **two-toothbrush** version was slightly slower, but exhibited a nearly linear trajectory
-- the **rubber-foot** version was slower and noisier
-
-## Closed-Loop Orientation Control
+# Experimental validation of the Closed-Loop heading Control
 
 Without feedback control:
 
