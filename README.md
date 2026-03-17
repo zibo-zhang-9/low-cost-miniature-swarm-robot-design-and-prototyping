@@ -113,9 +113,9 @@ The goal was to evaluate their suitability for contactless charging of small rob
 
 ---
 
-# Hardware and Electronics
+# Part II IMU Integration and Closed-Loop Control
 
-The project involved the study and integration of several miniature robotic components.
+The project involved the study and integration of several hardware and electronics components.
 
 ## Sensors
 
@@ -138,8 +138,6 @@ The project involved the study and integration of several miniature robotic comp
 - Kilobot PCB modifications
 
 ---
-
-# IMU Integration and Closed-Loop Control
 
 An important part of the internship was to integrate an **IMU-based feedback loop** for heading control.
 
