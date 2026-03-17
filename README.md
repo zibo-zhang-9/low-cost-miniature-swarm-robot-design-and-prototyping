@@ -25,7 +25,7 @@ The work explored several key directions for miniature and swarm robotics, inclu
 • Feasibility study of **wireless charging coils** for miniature robots  
 • Design and prototyping of **multiple vibration-driven robot morphologies**  
 • Development of a **small wheeled robot prototype** with stepper motors  
-• Integration of **IMU sensors via I2C** for orientation estimation  
+• Integration of **IMU sensors via I2C** for orientation sensing  
 • Modification of **Kilobot morphology and electronics**  
 • Implementation of a **closed-loop heading control strategy** for straight motion  
 
