@@ -11,7 +11,7 @@ This project presents the mechanical and electronic design of a **low-cost minia
 
 The work explored several key directions for miniature and swarm robotics, including:
 
-- **vibration-based locomotion**
+- **vibration-driven locomotion**
 - **small wheeled locomotion**
 - **IMU-based orientation sensing**
 - **closed-loop direction control**
