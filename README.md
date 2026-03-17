@@ -130,7 +130,7 @@ The PID-based control strategy enabled:
 
 # Part III Experimental validation of the Closed-Loop heading Control
 
-Experimental tests were performed to validate the proposed **Closed-Loop heading Control**
+Experimental tests were performed to validate the proposed **Closed-Loop heading Control**.
 
 Without feedback control:
 
