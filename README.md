@@ -132,13 +132,18 @@ The PID-based control strategy enabled:
 
 Experimental tests were performed to validate the proposed **Closed-Loop heading Control**.
 
-Without feedback control:
+**Without feedback control**
 
 - the robot trajectory tended to curve
 
-With IMU-based correction:
+[Watch the demo video](video/demo2.mp4)
+
+**With IMU-based correction**
 
 - the robot was able to approximately maintain a straight direction from its initial heading
+
+[Watch the demo video](video/demo.mp4)
+
 
 These results show that both **morphology design** and **embedded sensing** play an important role in the behavior of miniature robots.
 
