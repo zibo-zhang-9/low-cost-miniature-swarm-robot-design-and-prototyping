@@ -59,7 +59,7 @@ The target prototypes were intended to satisfy several constraints:
 
 Several vibration-driven prototypes were explored and compared.
 
-These prototypes were 3D-designed and printed and use ERM or LRA motors:
+These prototypes were 3D-designed and printed and use Linear Resonant Actautor (LRA) or Eccentric Rotating Mass (ERM) motors:
 
 ![Vibration Prototypes](media/vibration_models.png)
 
@@ -83,7 +83,7 @@ This prototype was used to explore a more controllable locomotion alternative to
 
 ## Kilobot Morphology Modifications
 
-A standard Kilobot platform was used as a reference system and modified in several ways. Different morphological variants were tested:
+A standard Kilobot platform was used as a reference system and modified in several ways. Different morphological variants using LRA motors were tested:
 
 ![Kilobot Morphologies](media/IMG_20190726_204139_2.jpg)
 
