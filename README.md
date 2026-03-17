@@ -38,7 +38,7 @@ The project focused on the following key objectives:
 
 - understanding vibration-based locomotion inspired by **Hexbug** and **Kilobot**
 - operating and modifying existing Kilobot platforms
-- integrating **inertial sensing units (IMU)** for motion control
+- integrating **inertial sensing units (IMU)** for motion control + orientation control
 - designing and prototyping new miniature robot concepts
 - improving motion control through **embedded sensing and feedback**
 
