@@ -126,9 +126,11 @@ The PID-based control strategy enabled:
 - correction of motor actuation
 - partial straight-line motion stabilization
 
-An overview of the system with IMU sensing and closed-loop control:
+System overview of the IMU-based closed-loop control:
 
 ![System Overview](media/system_overview.png)
+
+The system follows a sensing–computation–actuation loop. The IMU provides orientation measurements, which are processed by the microcontroller. A PID-based controller generates motor commands, resulting in controlled robot motion.
 
 ---
 
