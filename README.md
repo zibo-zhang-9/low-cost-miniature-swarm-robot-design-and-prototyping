@@ -62,8 +62,6 @@ The work explored several key directions for miniature and swarm robotics, inclu
 
 ---
 
----
-
 # Prototype Families
 
 ## Vibration-Driven Prototypes
