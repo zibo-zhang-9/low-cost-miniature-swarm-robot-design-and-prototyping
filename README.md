@@ -9,15 +9,6 @@
 
 This project presents the mechanical and electronic design of a **low-cost miniature swarm robot platform** developed during my master's internship (from **May 2019 to July 2019** ) at **Institute for Intelligent Systems and Robotics (ISIR), Sorbonne University**.
 
-The work explored several key directions for miniature and swarm robotics, including:
-
-- **vibration-driven locomotion**
-- **small wheeled locomotion**
-- **IMU-based orientation sensing**
-- **closed-loop direction control**
-- **Kilobot morphology modification**
-- **wireless charging feasibility study**
-
 ---
 
 # Project Highlights
@@ -47,6 +38,15 @@ The target platform was intended to satisfy several constraints:
 - compatibility with low-cost embedded electronics
 
 The project combined **mechanical design**, **electronics integration**, **sensor interfacing**, and **experimental prototyping**.
+
+The work explored several key directions for miniature and swarm robotics, including:
+
+- **vibration-driven locomotion**
+- **small wheeled locomotion**
+- **IMU-based orientation sensing**
+- **closed-loop direction control**
+- **Kilobot morphology modification**
+- **wireless charging feasibility study**
 
 ---
 
