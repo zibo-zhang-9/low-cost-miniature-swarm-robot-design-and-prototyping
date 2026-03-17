@@ -11,17 +11,17 @@ This project presents the mechanical and electronic design of a **low-cost minia
 
 ---
 
-# Overview
+# Research Project Overview
 
 Miniature robots are attractive for swarm robotics because they are inexpensive, lightweight, and scalable to large populations.
 
-This research aimed to explore the design of a **small and low-cost swarm robot platform** inspired by systems such as **Kilobot**, **Hexbug**, and other vibration-driven miniature robots.
+This research project aimed to explore the design of a **small and low-cost swarm robot platform** inspired by systems such as **Kilobot**, **Hexbug**, and other vibration-driven miniature robots.
 
-This research involved **mechanical design**, **electronics integration**, **sensor interfacing**, and **experimental prototyping**.
+This research project involved **mechanical design**, **electronics integration**, **sensor interfacing**, and **experimental prototyping**.
 
 ---
 
-# Highlights
+# Research Project Highlights
 
 • Feasibility study of **wireless charging coils** for miniature robots  
 • Design and prototyping of **multiple vibration-driven robot morphologies**  
