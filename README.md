@@ -130,7 +130,7 @@ System overview of the IMU-based closed-loop control:
 
 ![System Overview](media/system_overview.png)
 
-The system follows a sensing–computation–actuation loop. The IMU provides orientation measurements, which are processed by the microcontroller. A PID-based controller generates motor commands, resulting in controlled robot motion.
+The system follows a sensing–computation–actuation loop. The IMU provides orientation measurements, which are processed by the microcontroller. A PID-based controller generates motor commands, resulting in controlled robot motion. A feedback loop is established through IMU-based sensing.
 
 ---
 
