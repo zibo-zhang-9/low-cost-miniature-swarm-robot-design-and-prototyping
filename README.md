@@ -113,44 +113,16 @@ The goal was to evaluate their suitability for contactless charging of small rob
 
 # Part II IMU Integration and Closed-Loop Control
 
-The project involved the study and integration of several hardware and electronics components.
+A **MPU6050** IMU (3-axis accelerometer + 3-axis gyroscope) was integrated to the modified Kilobot morphologies and was interfaced through **I2C** to communicate with the modified Kilobot morphologies.
 
-## Sensors
+An **IMU-based feedback loop** for heading control was implemented so that the robot could maintain a straighter trajectory from its initial heading.
 
-- **MPU6050** IMU (3-axis accelerometer + 3-axis gyroscope)
-- **Thermal MEMS** accelerometer for vibration-insensitive motion sensing
-- preliminary investigation of **optical flow** and **laser sensors**
-
-## Actuation
-
-- ERM vibration motors
-- LRA actuators
-- miniature DC motors
-- miniature stepper motors
-
-## Embedded and Communication
-
-- Arduino-based prototyping
-- AVR / C programming
-- I2C interfacing
-- Kilobot PCB modifications
-
----
-
-An important part of the internship was to integrate an **IMU-based feedback loop** for heading control.
-
-The MPU6050 was interfaced through **I2C**, and a control strategy was proposed so that the robot could maintain a straighter trajectory from its initial heading.
-
-The control architecture enabled:
+The PID-based control strategy enabled:
 
 - yaw estimation
 - heading error computation
 - correction of motor actuation
 - partial straight-line motion stabilization
-
-Illustration of the control principle:
-
-![Control Diagram](media/control_diagram.jpg)
 
 ---
 
@@ -181,6 +153,28 @@ These results show that both **morphology design** and **embedded sensing** play
 ---
 
 # Technologies Used
+
+The project involved the study and integration of several hardware and electronics components.
+
+## Sensors
+
+- **MPU6050** IMU (3-axis accelerometer + 3-axis gyroscope)
+- **Thermal MEMS** accelerometer for vibration-insensitive motion sensing
+- preliminary investigation of **optical flow** and **laser sensors**
+
+## Actuation
+
+- ERM vibration motors
+- LRA actuators
+- miniature DC motors
+- miniature stepper motors
+
+## Embedded and Communication
+
+- Arduino-based prototyping
+- AVR / C programming
+- I2C interfacing
+- Kilobot PCB modifications
 
 ## Programming
 
