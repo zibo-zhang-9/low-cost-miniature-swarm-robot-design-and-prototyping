@@ -124,6 +124,8 @@ The PID-based control strategy enabled:
 - correction of motor actuation
 - partial straight-line motion stabilization
 
+![Kilobot Morphologies 2](media/IMG_20190726_204156.jpg)
+
 ---
 
 # Experimental Findings
