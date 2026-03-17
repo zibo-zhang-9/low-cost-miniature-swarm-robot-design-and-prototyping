@@ -35,7 +35,7 @@ The work explored several key directions for miniature and swarm robotics, inclu
 
 Miniature robots are attractive for swarm robotics because they are inexpensive, lightweight, and scalable to large populations.
 
-This internship aimed to explore the design of a **small and low-cost robot platform** inspired by systems such as **Kilobot**, **Hexbug**, and other vibration-driven miniature robots.
+This internship aimed to explore the design of a **small and low-cost swarm robot platform** inspired by systems such as **Kilobot**, **Hexbug**, and other vibration-driven miniature robots.
 
 The target platform was intended to satisfy several constraints:
 
