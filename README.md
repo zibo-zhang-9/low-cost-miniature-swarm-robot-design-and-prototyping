@@ -83,8 +83,6 @@ Main features includ:
 
 This prototype was used to explore a more controllable locomotion alternative to purely vibration-driven motion.
 
-![Wheeled Prototype](media/wheeled_robot.jpg)
-
 ---
 
 # Hardware and Electronics
