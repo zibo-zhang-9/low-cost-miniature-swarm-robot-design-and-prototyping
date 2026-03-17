@@ -101,6 +101,22 @@ where from left to right:
 
 ---
 
+# Wireless Charging Feasibility Study
+
+A feasibility study was carried out for **wireless charging** of miniature robots.
+
+Several PCB coil geometries were designed and compared:
+
+- spiral coils
+- rectangular-spiral coils
+- hexagonal-spiral coils
+
+The goal was to evaluate their suitability for contactless charging of small robotic platforms.
+
+![Wireless Charging Coils](media/wireless_charging_coils.jpg)
+
+---
+
 # Hardware and Electronics
 
 The project involved the study and integration of several miniature robotic components.
@@ -124,22 +140,6 @@ The project involved the study and integration of several miniature robotic comp
 - AVR / C programming
 - I2C interfacing
 - Kilobot PCB modifications
-
----
-
-# Wireless Charging Feasibility Study
-
-A feasibility study was carried out for **wireless charging** of miniature robots.
-
-Several PCB coil geometries were designed and compared:
-
-- spiral coils
-- rectangular-spiral coils
-- hexagonal-spiral coils
-
-The goal was to evaluate their suitability for contactless charging of small robotic platforms.
-
-![Wireless Charging Coils](media/wireless_charging_coils.jpg)
 
 ---
 
