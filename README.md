@@ -126,6 +126,10 @@ The PID-based control strategy enabled:
 - correction of motor actuation
 - partial straight-line motion stabilization
 
+An overview of the system:
+
+![System Overview](media/system_overview.png)
+
 ---
 
 # Part III Experimental validation of the Closed-loop heading Control
