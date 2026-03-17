@@ -126,7 +126,7 @@ The PID-based control strategy enabled:
 - correction of motor actuation
 - partial straight-line motion stabilization
 
-System overview of the IMU-based closed-loop control:
+A system overview of the IMU-based closed-loop control:
 
 ![System Overview](media/system_overview.png)
 
