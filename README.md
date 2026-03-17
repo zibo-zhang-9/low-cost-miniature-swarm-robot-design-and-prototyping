@@ -4,11 +4,8 @@
 ![Field](https://img.shields.io/badge/Field-Miniature_Robotics-blue)
 ![Topic](https://img.shields.io/badge/Topic-Vibration_Locomotion-green)
 ![Application](https://img.shields.io/badge/Application-Swarm_Robotics-orange)
-![Institution](https://img.shields.io/badge/Institution-ISIR_Sorbonne_University-purple)
-![Project](https://img.shields.io/badge/Project-MSR-darkgreen)
-![Report](https://img.shields.io/badge/Report-Internship_Report-grey)
 
-This project presents the mechanical and electronic design of a **low-cost miniature robot platform** developed during my master's internship at **ISIR, Sorbonne University**.
+This project presents the mechanical and electronic design of a **low-cost miniature robot platform** developed during my master's internship (from **May 2019 to July 2019** ) at **Institute for Intelligent Systems and Robotics (ISIR), Sorbonne University**.
 
 The work explored several key directions for miniature and swarm robotics, including:
 
@@ -18,8 +15,6 @@ The work explored several key directions for miniature and swarm robotics, inclu
 - **closed-loop direction control**
 - **Kilobot morphology modification**
 - **wireless charging feasibility study**
-
-The internship was carried out from **May 2019 to July 2019** at the **Institute for Intelligent Systems and Robotics (ISIR), Sorbonne University**.
 
 ---
 
