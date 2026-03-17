@@ -115,6 +115,8 @@ The goal was to evaluate their suitability for contactless charging of small rob
 
 A **MPU6050** IMU (3-axis accelerometer + 3-axis gyroscope) was integrated to the modified Kilobot morphologies and was interfaced through **I2C** to communicate with the modified Kilobot morphologies.
 
+![Kilobot Morphologies 2](media/IMG_20190726_204156.jpg)
+
 An **IMU-based feedback loop** for heading control was implemented so that the robot could maintain a straighter trajectory from its initial heading.
 
 The PID-based control strategy enabled:
@@ -123,8 +125,6 @@ The PID-based control strategy enabled:
 - heading error computation
 - correction of motor actuation
 - partial straight-line motion stabilization
-
-![Kilobot Morphologies 2](media/IMG_20190726_204156.jpg)
 
 ---
 
