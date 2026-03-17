@@ -63,13 +63,9 @@ Two kinds of prototype was studied: **Vibration-Driven Prototypes** and **Small 
 
 Several vibration-driven prototypes were explored and compared.
 
-Some prototypes were 3D-designed and printed and uses ERM or LRA motors (shown in the following Figure).
+These prototypes were 3D-designed and printed and uses ERM or LRA motors (shown in the following Figure).
 
 ![Vibration Prototypes](media/vibration_models.jpg)
-
-or some prototypes were made by modifying Kilobot morphologies:
-
-![Vibration Prototypes](media/vibration_models_2.jpg)
 
 ---
 
