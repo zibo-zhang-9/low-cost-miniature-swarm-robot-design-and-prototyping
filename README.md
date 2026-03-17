@@ -136,7 +136,7 @@ Experimental tests were performed to validate the proposed **Closed-Loop heading
 
 - the robot trajectory tended to curve
 
-![demo](media/Vidéo6_kilobot_brosse_a_dents_asservissement_1.gif)
+![demo](media/Vidéo6_kilobot_brosse_a_dents_asservissement_1(1).gif)
 
 **With IMU-based correction**
 
