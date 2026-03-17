@@ -83,7 +83,7 @@ This prototype was used to explore a more controllable locomotion alternative to
 
 ---
 
-## Kilobot Modifications
+## Kilobot Morphology Modifications
 
 A standard Kilobot platform was used as a reference system and modified in several ways. Different morphologies variants were tested:
 
@@ -97,7 +97,7 @@ where from left to right:
 
 ---
 
-# Wireless Charging Feasibility Study
+## Wireless Charging Feasibility Study
 
 A feasibility study was carried out for **wireless charging** of miniature robots.
 
