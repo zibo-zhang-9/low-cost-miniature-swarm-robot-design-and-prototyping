@@ -193,6 +193,27 @@ Potential applications include:
 
 ---
 
+# Conclusion
+
+This project explored the design and prototyping of a **low-cost miniature swarm robot platform**, covering the full development cycle from mechanical design to embedded control and experimental validation.
+
+Through multiple prototype iterations, different locomotion strategies were investigated, including **vibration-driven mechanisms** and **wheeled actuation**, highlighting the trade-offs between simplicity and controllability in miniature robotic systems.
+
+A key contribution of this work lies in the integration of **inertial sensing (IMU) and closed-loop control** into a Kilobot-like platform. Experimental results demonstrated that even with low-cost hardware, **feedback control significantly improves motion stability**, enabling approximate straight-line trajectory tracking.
+
+In addition, the feasibility study on **wireless charging coils** and the exploration of various robot morphologies provided insights into autonomy challenges in swarm robotics.
+
+---
+
+## Limitations
+
+- limited motion accuracy due to vibration-based actuation  
+- sensitivity to surface conditions and mechanical imperfections  
+- lack of communication and coordination between multiple robots  
+- no full swarm-level experiments conducted  
+
+---
+
 # Project Context
 
 This internship was carried out within the framework of the project:
